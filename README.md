@@ -8,16 +8,15 @@
 I'm a sophomore at Johns Hopkins University double majoring in Computer Science and Economics. As a person with a policy background, I'm interested in exploring technical/computational ethics and governance for emerging technologies, such as artificial intelligence. I also enjoy spreading awarness of AI safety through hackathons, panels, and conferences. In the future, I'm hoping to dive into more technical research into concepts such as normativity to understand the ethical benchmark for agents.
 
 
-What I'm currently doing:
+**What I'm currently doing:**
 - Incoming Tech Policy Intern @ AEI [summer 2025]
 - Vice President @ Tech Policy Society at JHU
 - Developing an AI Ethics Sandbox
 
-What I've done in the past:
+**What I've done in the past:**
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
 - Hosted JHU's inaugural [AI Policy Hackathon](https://www.cs.jhu.edu/news/jhu-holds-first-ai-policy-hackathon/) with $25k sponsorship from OpenAI and Microsoft
 - [Rise Fellow '22](https://www.risefortheworld.org/) backed by Schmidt Futures and the Rhodes Trust
-
 
 
 
@@ -36,6 +35,8 @@ What I've done in the past:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baekseokhyun/)](https://www.linkedin.com/in/baekseokhyun/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanb6332/?hl=en)](https://www.instagram.com/nathanb6332/?hl=en) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seokhyunbaek06@gmail.com)](mailto:seokhyunbaek06@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=baekbyte&label=Profile%20views&color=56744E&style=flat" alt="counter" /> 
 
 <!--
 **baekbyte/baekbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
