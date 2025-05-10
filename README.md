@@ -32,6 +32,11 @@ What I've done in the past:
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </p>
 
+## How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baekseokhyun/)](https://www.linkedin.com/in/baekseokhyun/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanb6332/?hl=en)](https://www.instagram.com/nathanb6332/?hl=en) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seokhyunbaek06@gmail.com)](mailto:seokhyunbaek06@gmail.com)
+
 <!--
 **baekbyte/baekbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
