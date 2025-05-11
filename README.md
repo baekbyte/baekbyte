@@ -11,7 +11,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 **What I'm currently doing:**
 - Incoming Tech Policy Intern @ AEI [summer 2025]
 - Vice President @ Tech Policy Society at JHU
-- Developing an AI Ethics Sandbox
+- Developing an [AI Risk Classification System](https://baekbyte.github.io/)
 
 **What I've done in the past:**
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
