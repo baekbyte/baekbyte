@@ -9,7 +9,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 
 
 **What I'm currently doing:**
-- Incoming Tech Policy Intern @ AEI [summer 2025]
+- Tech Policy Intern @ AEI [summer 2025]
 - Vice President @ Tech Policy Society at JHU
 - Developing an [AI Risk Classification System](https://baekbyte.github.io/)
 
