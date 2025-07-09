@@ -11,6 +11,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 - Tech Policy Intern @ AEI [summer 2025]
 - Vice President @ Tech Policy Society at JHU
 - Developing an [AI Risk Auditor](https://baekbyte.github.io/)
+- Fine-tuning GPT-2 for code explaination
 
 **What I've done in the past:**
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
