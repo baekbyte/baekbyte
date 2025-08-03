@@ -8,6 +8,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 
 
 **What I'm currently doing:**
+- Incoming Claude Builder @ Anthropic [fall 2025]
 - Tech Policy Intern @ AEI [summer 2025]
 - Vice President @ Tech Policy Society at JHU
 - Developing an [AI Risk Auditor](https://baekbyte.github.io/)
