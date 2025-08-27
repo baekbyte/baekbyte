@@ -8,13 +8,13 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 
 
 **What I'm currently doing:**
-- Incoming Claude Builder @ Anthropic [fall 2025]
-- Tech Policy Intern @ AEI [summer 2025]
+- Claude Builder @ Anthropic [fall 2025]
 - Vice President @ [Tech Policy Society](https://tps-jhu.vercel.app/home) at JHU
 - Developing an [AI Risk Auditor](https://ai-risk-auditor.vercel.app/home)
 - Fine-tuning GPT-2 for code explaination
 
 **What I've done in the past:**
+- Tech Policy Intern @ AEI [summer 2025]
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
 - Hosted JHU's inaugural [AI Policy Hackathon](https://www.cs.jhu.edu/news/jhu-holds-first-ai-policy-hackathon/) with $25k sponsorship from OpenAI and Microsoft
 - [Rise Fellow '22](https://www.risefortheworld.org/) backed by Schmidt Futures and the Rhodes Trust
