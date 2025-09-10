@@ -9,6 +9,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 
 **What I'm currently doing:**
 - Claude Builder @ Anthropic [fall 2025]
+- AI Alignment Research Assistant at JHU Normativity Lab
 - Vice President @ [Tech Policy Society](https://tps-jhu.vercel.app/home) at JHU
 - Developing an [AI Risk Auditor](https://ai-risk-auditor.vercel.app/home)
 - Fine-tuning GPT-2 for code explaination
