@@ -1,8 +1,6 @@
 <h1 align="center"> 👋 Hi there, I'm Nathan Baek </h1>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=210 align="right" src="https://github-readme-stats.vercel.app/api?username=baekbyte" />
-</a>
+
 
 I'm a sophomore at Johns Hopkins University double majoring in Computer Science and Economics. As a person with a policy background, I'm interested in exploring computational ethics and governance for emerging technologies, such as artificial intelligence. I also enjoy spreading awarness of AI safety through hackathons, panels, and conferences. In the future, I'm hoping to dive into more technical research into concepts such as RLHF, alignment, and normativity to understand the ethical benchmark for agents.
 
