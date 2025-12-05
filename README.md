@@ -6,13 +6,13 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 
 
 **What I'm currently doing:**
-- Claude Builder @ Anthropic [fall 2025]
 - AI Alignment Research Collaborator at [JHU Normativity Lab](https://gillianhadfield.org/the-normativity-lab/)
 - Vice President @ [Tech Policy Society](https://tps-jhu.vercel.app/home) at JHU
 - Developing an [AI Risk Auditor](https://ai-risk-auditor.vercel.app/home)
 - Fine-tuning GPT-2 for code explaination
 
 **What I've done in the past:**
+- Claude Builder @ Anthropic [fall 2025]
 - Tech Policy Intern @ AEI [summer 2025]
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
 - Hosted JHU's inaugural [AI Policy Hackathon](https://www.cs.jhu.edu/news/jhu-holds-first-ai-policy-hackathon/) with $25k sponsorship from OpenAI and Microsoft
