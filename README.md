@@ -9,6 +9,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 - AI Alignment Research Collaborator at [JHU Normativity Lab](https://gillianhadfield.org/the-normativity-lab/)
 - External Research Collaborator at [Social AI Research Group](https://social-ai.ca/)
 - Vice President @ [Tech Policy Society](https://tps-jhu.vercel.app/home) at JHU
+- [Rise Fellow '22](https://www.risefortheworld.org/) backed by Schmidt Futures and the Rhodes Trust
 
 **What I've done in the past:**
 - Claude Builder @ Anthropic [fall 2025]
@@ -17,7 +18,6 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 - Fine-tuned GPT-2 for code explaination
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
 - Hosted JHU's inaugural [AI Policy Hackathon](https://www.cs.jhu.edu/news/jhu-holds-first-ai-policy-hackathon/) with $25k sponsorship from OpenAI and Microsoft
-- [Rise Fellow '22](https://www.risefortheworld.org/) backed by Schmidt Futures and the Rhodes Trust
 
 
 
