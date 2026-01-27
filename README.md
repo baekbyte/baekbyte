@@ -7,6 +7,7 @@ I'm a sophomore at Johns Hopkins University double majoring in Computer Science 
 
 **What I'm currently doing:**
 - AI Alignment Research Collaborator at [JHU Normativity Lab](https://gillianhadfield.org/the-normativity-lab/)
+- External Research Collaborator at [Social AI Research Group](https://social-ai.ca/)
 - Vice President @ [Tech Policy Society](https://tps-jhu.vercel.app/home) at JHU
 - Developing an [AI Risk Auditor](https://ai-risk-auditor.vercel.app/home)
 - Fine-tuning GPT-2 for code explaination
