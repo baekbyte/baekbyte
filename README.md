@@ -2,8 +2,7 @@
 
 
 
-I'm a sophomore at Johns Hopkins University double majoring in Computer Science and Economics. As a person with a policy background, I'm interested in exploring computational ethics and governance for emerging technologies, such as artificial intelligence. I also enjoy spreading awarness of AI safety through hackathons, panels, and conferences. In the future, I'm hoping to dive into more technical research into concepts such as RLHF, alignment, and normativity to understand the ethical benchmark for agents.
-
+I'm a sophomore at Johns Hopkins University studying Computer Science and Economics. I'm currently researching multi-agent debate systems and collaborative reasoning failure modes at The Normativity Lab, and contributing to the Sorrel open-source framework for multi-agent reinforcement learning at UofT's Social AI Research Group. Interested in AI alignment, normative reasoning, partial observability, and the intersection of technical AI capabilities with policy implications.
 
 **What I'm currently doing:**
 - AI Alignment Research Collaborator at [JHU Normativity Lab](https://gillianhadfield.org/the-normativity-lab/)
