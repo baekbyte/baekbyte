@@ -7,6 +7,7 @@ I'm a sophomore at Johns Hopkins University studying Computer Science and Econom
 **What I'm currently doing:**
 - AI Alignment Research Collaborator at [JHU Normativity Lab](https://gillianhadfield.org/the-normativity-lab/)
 - External Research Collaborator at [Social AI Research Group](https://social-ai.ca/)
+  -  Contributing to [Sorrel](https://github.com/social-ai-uoft/sorrel)
 - Vice President @ [Tech Policy Society](https://tps-jhu.vercel.app/home) at JHU
 - [Rise Fellow '22](https://www.risefortheworld.org/) backed by Schmidt Futures and the Rhodes Trust
 
