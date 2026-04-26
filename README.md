@@ -2,7 +2,7 @@
 
 
 
-I'm a sophomore at Johns Hopkins University studying Computer Science and Economics. I'm currently researching multi-agent debate systems and collaborative reasoning failure modes at The Normativity Lab, and contributing to the Sorrel open-source framework for multi-agent reinforcement learning at UofT's Social AI Research Group. Interested in AI alignment, normative reasoning, partial observability, and the intersection of technical AI capabilities with policy implications.
+I'm a sophomore at Johns Hopkins University studying Computer Science and Economics. I'm currently researching multi-agent debate systems and collaborative reasoning failure modes at The Normativity Lab, and contributing to the Sorrel open-source framework for multi-agent reinforcement learning at UofT's Social AI Research Group. Interested in AI alignment, normative reasoning, partial observability, and theory of mind.
 
 **What I'm currently doing:**
 - AI Researcher at [JHU Normativity Lab](https://gillianhadfield.org/the-normativity-lab/)
