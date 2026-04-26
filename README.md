@@ -13,7 +13,7 @@ I'm a sophomore at Johns Hopkins University studying Computer Science and Econom
 
 **What I've done in the past:**
 - Claude Builder @ Anthropic [fall 2025]
-- Tech Policy Intern @ AEI [summer 2025]
+- Tech Intern @ AEI [summer 2025]
 - Developed an [AI Risk Auditor](https://ai-risk-auditor.vercel.app/home)
 - Fine-tuned GPT-2 for code explaination
 - Intern @ [Auctor AI (YC X25)](https://www.getauctor.com/)
