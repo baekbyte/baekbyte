@@ -43,8 +43,6 @@ I'm a junior at Johns Hopkins University studying Computer Science and Economics
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/nathanb6332/?hl=en)](https://www.instagram.com/nathanb6332/?hl=en) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seokhyunbaek06@gmail.com)](mailto:seokhyunbaek06@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=baekbyte&label=Profile%20views&color=56744E&style=flat" alt="counter" /> 
-
 <!--
 **baekbyte/baekbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
